@@ -1,11 +1,11 @@
 Implemented Various C++ Projects
-\item Variant ( Template Metaprogramming \& Strong Exception Safety )
-\item Smart Pointers ( SharedPtr \& WeakPtr )
-\item Unordered Map ( Iterators )
-\item List ( Allocator \& Iterators \& Strong Exception Safety )
-\item Deque ( Iterators \& Strong Exception Safety )
-\item Geometry (OOP)
-\item Matrix ( Template Metaprogramming )
-\item BigInteger ( Classes )
-\item Rational
-\item String
+- Variant (Template Metaprogramming & Strong Exception Safety)
+- Smart Pointers (SharedPtr & WeakPtr)
+- Unordered Map (Iterators)
+- List (Allocator & Iterators & Strong Exception Safety)
+- Deque (Iterators & Strong Exception Safety)
+- Geometry (OOP)
+- Matrix (Template Metaprogramming)
+- BigInteger (Classes)
+- Rational
+- String
