@@ -1,13 +1,11 @@
-I've put together an CMake setup where you can work in. 
-
-I changed the things listed below:
-- moved your classes from namespace rdf4cpp::rdf::storage::node::default_node_storage to rdf4cpp::rdf::storage::node::metall_node_storage
-- renamed DefaultNodeStorageBackend to MetallNodeStorageBackend
-- removed the allocator template parameter from MetallNodeStorageBackend. This is a small change in the task. It is enough if you complete the non-templated MetallNodeStorageBackend.
-- put things into a CMake library metall_node_storage
-- created dummy executables for 01_store_nodes and 02_load_nodes
-
-You might need to install, besides libboost-all-dev also libserd-dev:
-```shell
-sudo apt install -y libboost-all-dev libserd-dev
-```
+Implemented Various C++ Projects
+\item Variant ( Template Metaprogramming \& Strong Exception Safety )
+\item Smart Pointers ( SharedPtr \& WeakPtr )
+\item Unordered Map ( Iterators )
+\item List ( Allocator \& Iterators \& Strong Exception Safety )
+\item Deque ( Iterators \& Strong Exception Safety )
+\item Geometry (OOP)
+\item Matrix ( Template Metaprogramming )
+\item BigInteger ( Classes )
+\item Rational
+\item String
